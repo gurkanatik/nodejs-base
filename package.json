@@ -2,10 +2,12 @@
   "name": "nodejs-base",
   "version": "1.0.0",
   "main": "app.js",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "eslint": "^9.22.0"
+  }
 }
