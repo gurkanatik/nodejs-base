@@ -45,6 +45,7 @@ nodejs-base/
    ```
    git clone git@github.com:gurkanatik/nodejs-base.git
    cd nodejs-base
+   cp .env.example .env
    ```
 
 2. Install dependencies:
